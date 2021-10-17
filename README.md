@@ -9,4 +9,4 @@ model trained on the [kagle dataset](https://www.kaggle.com/andrewmvd/car-plate-
 <!-- TODO(b/124116863): Add app screenshot. -->
 
 ## Screen Capture
-![Alt Text](https://github.com/rudrapr/realtime-lpr-tflite/screenshot/ditection.gif)
+![Alt Text](https://github.com/rudrapr/licence-plate-recognition/blob/master/screenshot/ditection.gif)
